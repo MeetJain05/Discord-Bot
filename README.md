@@ -59,7 +59,7 @@ Make sure to replace `your_discord_bot_token_here` with your actual Discord bot 
 Start the bot by running the following command:
 
 ```bash
-python bot.py
+python main.py
 ```
 
 ## Commands
